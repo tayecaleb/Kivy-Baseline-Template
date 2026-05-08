@@ -1,1 +1,1 @@
-# from kivy_modules.kivymd.uix.tooltip import MDTooltip
+# from kivymd.uix.tooltip import MDTooltip
